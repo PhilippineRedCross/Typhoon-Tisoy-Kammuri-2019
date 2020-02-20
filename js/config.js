@@ -1,7 +1,7 @@
 // SET VARIABLES FOR THIS Dashboard
 
 var config_Title = 'Typhoon Tisoy Operation';
-var config_LastUpdate = '14 January 2020';
+var config_LastUpdate = '20 February 2020';
 
 var config_author = 'Elaine Manzon';
 var config_email = 'elaine.manzon@redcross.org.ph';
